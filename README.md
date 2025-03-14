@@ -1,6 +1,7 @@
 # Rime_dict_tools
 Rime系列词库管理工具
 
-![image](https://github.com/user-attachments/assets/a166d7bd-4051-464c-b198-087c95cc34c0)
 
-![image](https://github.com/user-attachments/assets/477297fc-d908-4dcc-9c55-642ba65bea2d)
+![image](https://github.com/user-attachments/assets/7fe5c8b3-1e57-4875-a4b2-6bed5045028d)
+
+![image](https://github.com/user-attachments/assets/f89ace82-d30b-44fb-8348-d0f27070db22)
