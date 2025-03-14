@@ -498,8 +498,8 @@ PADDING = 5  # 统一内边距
 
 # 主窗口设置
 root = tk.Tk()
-root.title("Rime 词典管理程序")
-root.configure(bg=BG_COLOR)
+root.title("Rime 词典管理程序 by Boldan")
+root.configure(bg=BG_COLOR)    
 
 # 设置默认字体
 root.option_add("*Font", DEFAULT_FONT)
