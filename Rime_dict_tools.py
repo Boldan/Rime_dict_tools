@@ -521,6 +521,7 @@ top_frame = ttk.Frame(root)
 top_frame.grid(row=0, rowspan=2, column=0, columnspan=6, sticky='nsew', padx=PADDING, pady=PADDING)
 
 # 配置top_frame的列权重
+
 top_frame.grid_columnconfigure(1, weight=5)  # 第一列权重为5
 top_frame.grid_columnconfigure(2, weight=3)  # 第二列权重为3
 top_frame.grid_columnconfigure(3, weight=2)  # 第三列权重为2
@@ -642,7 +643,7 @@ enable_code2_button.grid(row=1, column=5, padx=PADDING, pady=PADDING, sticky='w'
 
 
 # 主循环开始前调用更新函数
-update_combo_dict()  # 添加这一行
+update_combo_dict() 
 
 # 运行主循环
 root.mainloop()
